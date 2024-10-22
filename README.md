@@ -38,9 +38,10 @@ python AutoClicker.py
     
     To run a standalone executable using PyInstaller,
     you can download the executable file instead    of building it yourself.
+    
 **Download the Executable**
 
-1. Download the executable "AutoClicker.exe".
+1. Download the executable "AutoClicker.exe" from above.
 
 2. Once the download is complete,locate the .exe file
 on your computer.
