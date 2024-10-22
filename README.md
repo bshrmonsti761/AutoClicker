@@ -40,12 +40,13 @@ python AutoClicker.py
     you can download the executable file instead    of building it yourself.
 **Download the Executable**
 
-1. Download the executable from the provided link.
+1. Download the executable "AutoClick.exe" from above.
 
 2. Once the download is complete,locate the .exe file
 on your computer.
 
 3. Run the executable by double-clicking on the file.
+
 ## Usage
 
 - **Choose Button**: Use the dropdown menu to select which key to automate.
