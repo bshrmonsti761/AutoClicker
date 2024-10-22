@@ -12,6 +12,11 @@ Autoclicker is a simple and customizable auto-clicker tool built using Python an
 - **Tooltips**: Hover over the icon to see a tooltip for additional safety instructions.
 - **Fail-Safe**: Hovering the mouse to the top-left corner (x=0, y=0) provides an easy fail-safe.
 
+##Screenshot
+
+![image alt](https://github.com/bshrmonsti761/AutoClicker/blob/main/AutoClickerGUI.png?raw=true)
+
+
 ## Installation 
 **Prerequisites** 
 - Python 3.x is required.
@@ -65,7 +70,6 @@ Contributions are always welcome!
 If you'd like to contribute to this project, 
 feel free to fork the repository and submit a pull request.
 
-![image alt](https://github.com/bshrmonsti761/AutoClicker/blob/main/AutoClickerGUI.png?raw=true)
 
 
 ## License
