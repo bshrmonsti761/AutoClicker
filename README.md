@@ -46,7 +46,7 @@ python AutoClicker.py
     
 **Download the Executable**
 
-1. Download the executable "AutoClicker.exe" from above.
+1. Download the executable "AutoClicker.exe", found in the releases.
 
 2. Once the download is complete,locate the .exe file
 on your computer.
