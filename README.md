@@ -1,7 +1,7 @@
 
 # AUTOCLICKER
 Autoclicker is a simple and customizable auto-clicker tool built using Python and customtkinter. It allows the user to automate mouse clicks or key presses for a selected key. The tool provides a user-friendly interface to configure settings like button choice, mouse click enabling, and switching between light and dark modes.
-
+##
 
 ## Features
 
@@ -12,7 +12,7 @@ Autoclicker is a simple and customizable auto-clicker tool built using Python an
 - **Tooltips**: Hover over the icon to see a tooltip for additional safety instructions.
 - **Fail-Safe**: Hovering the mouse to the top-left corner (x=0, y=0) provides an easy fail-safe.
 
-##Screenshot
+## Screenshot
 
 ![image alt](https://github.com/bshrmonsti761/AutoClicker/blob/main/AutoClickerGUI.png?raw=true)
 
