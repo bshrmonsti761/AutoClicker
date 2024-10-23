@@ -60,7 +60,7 @@ on your computer.
 - **Appearance Mode**: Use the Appearance Mode button to switch between light and dark themes.
 **Fail-Safe**
 
-If you want to stop the auto-clicker manualhttps://github.com/bshrmonsti761/AutoClicker/blob/main/AutoClickerGUI.png?raw=truely, simply move your mouse cursor to the top-left corner (x=0, y=0) of the screen and hold it for a second or longer, which will stop the process for safety.
+If you want to stop the auto-clicker, simply move your mouse cursor to the top-left corner (x=0, y=0) of the screen and hold it for a second or longer, which will stop the process for safety.
 
 
 ## Contributing
