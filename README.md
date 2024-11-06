@@ -37,7 +37,7 @@ cd Autoclicker
 ```
 2. Run the Python script:
 ```bash
-python AutoClicker.py
+AutoClicker.exe
 ```
 3. Run Executable
     
@@ -48,7 +48,7 @@ python AutoClicker.py
 
 1. Download the executable "AutoClicker.exe", found in the releases.
 
-2. Once the download is complete,locate the .exe file
+2. Once the download is complete, locate the .exe file
 on your computer.
 
 3. Run the executable by double-clicking on the file.
